@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#define SUMA(a,b) a + b
+#define SUMA(a,b) ((a) + (b))//Aqui se corrije la omisión de los paréntesis para la Macro
 
 using namespace std;
 
