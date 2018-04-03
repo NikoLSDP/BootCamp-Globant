@@ -1,0 +1,4 @@
+﻿  Operations.cpp
+c:\users\usuario\desktop\globant\bootcamp c++\3er trabajo (limits)\practico 3\operations.cpp(65): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+c:\users\usuario\desktop\globant\bootcamp c++\3er trabajo (limits)\practico 3\operations.cpp(92): warning C4715: 'funcArr': no todas las rutas de acceso de control devuelven un valor
+  Practico 3.vcxproj -> C:\Users\Usuario\Desktop\Globant\BootCamp C++\3er Trabajo (limits)\Practico 3\x64\Debug\Practico 3.exe

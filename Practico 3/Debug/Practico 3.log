@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  main.cpp
+  Program_Manager.cpp
+  Operations.cpp
+  Generando código...
+c:\users\usuario\desktop\globant\bootcamp c++\3er trabajo (limits)\practico 3\operations.cpp(92): warning C4715: 'funcArr': no todas las rutas de acceso de control devuelven un valor
+  Practico 3.vcxproj -> C:\Users\Usuario\Desktop\Globant\BootCamp C++\3er Trabajo (limits)\Practico 3\Debug\Practico 3.exe
